@@ -2,8 +2,8 @@
     Website CODAR.
 </h1>
 
-<h1>
-    <img src="assets/images/desktop.png">
+<h1 align="center">
+    <img src="assets/images/desktop.png" width="300">
 </h1>
 
 <h1 align="center">
